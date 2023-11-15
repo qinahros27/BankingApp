@@ -1,5 +1,5 @@
 # Introduction
-This project uses Typescript to create a simple banking application
+This project uses Typescript to create a simple banking application.
 
 ## Table of content
 - Technologies
